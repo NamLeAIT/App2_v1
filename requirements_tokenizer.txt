@@ -1,0 +1,6 @@
+# Required for pretrained fixed tokenizer sparse text coding
+transformers
+sentencepiece
+# Optional only for XLM-R masked-language repair, not needed for tokenizer IDs
+torch
+accelerate

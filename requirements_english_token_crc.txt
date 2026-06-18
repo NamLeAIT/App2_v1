@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+pillow
+scipy
+scikit-image
+matplotlib
+plotly
+openpyxl
+pypdf
+pdfplumber
+python-docx
+transformers
+sentencepiece
+torch
+accelerate

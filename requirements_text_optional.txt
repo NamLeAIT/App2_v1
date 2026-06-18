@@ -1,0 +1,9 @@
+streamlit
+pandas
+pillow
+numpy
+
+# Optional, only needed if you enable XLM-R repair in the Text tab:
+# torch
+# transformers
+# sentencepiece
